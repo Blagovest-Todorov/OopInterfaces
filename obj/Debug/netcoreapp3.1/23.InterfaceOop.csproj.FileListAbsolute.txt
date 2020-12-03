@@ -1,0 +1,4 @@
+C:\Users\Bla\source\repos\OOP\23.InterfaceOop\obj\Debug\netcoreapp3.1\23.InterfaceOop.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\23.InterfaceOop\obj\Debug\netcoreapp3.1\23.InterfaceOop.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\23.InterfaceOop\obj\Debug\netcoreapp3.1\23.InterfaceOop.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\23.InterfaceOop\obj\Debug\netcoreapp3.1\23.InterfaceOop.csproj.CoreCompileInputs.cache
